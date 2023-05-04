@@ -24,9 +24,9 @@
  
  
  <div align="center">
-  <a href = "mailto:contatogabbryellimasi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-00FFFF?style=for-the-badge&logo=gmail&logoColor=black"</a>
-  <a href="https://www.linkedin.com/in/gabryel-lima-9076541b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"</a> 
-  <a href="https://www.instagram.com/gabryel27/" target="_blank"><img src="https://img.shields.io/badge/instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=black"</a>
+  <a href = "mailto:contatogabbryellimasi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-008000?style=for-the-badge&logo=gmail&logoColor=black"</a>
+  <a href="https://www.linkedin.com/in/gabryel-lima-9076541b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=linkedin&logoColor=black"</a> 
+  <a href="https://www.instagram.com/gabryel27/" target="_blank"><img src="https://img.shields.io/badge/instagram-dc146c?style=for-the-badge&logo=instagram&logoColor=black"</a>
 </div>
 
  ![Snake animation](https://github.com/Gabryel-lima/Gabryel-lima/blob/output/github-contribution-grid-snake.svg)
