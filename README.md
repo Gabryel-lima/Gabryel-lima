@@ -19,7 +19,7 @@
  
 <div align="center"><br>
  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python" /><br><br>
- <img src="https://skillicons.dev/icons?i=mysql,vscode,git,github" /><br><br>
+ <img src="https://skillicons.dev/icons?i=mysql,vscode,discord,git,github" /><br><br>
 </div><br>
  
  
