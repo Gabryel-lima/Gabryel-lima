@@ -29,4 +29,4 @@
   <a href="https://www.instagram.com/gabryel27/" target="_blank"><img src="https://img.shields.io/badge/instagram-dc146c?style=for-the-badge&logo=instagram&logoColor=black"</a>
 </div>
 
-![Snake animation](https://github.com/Gabryel-lima/Gabryel-lima/blob/output/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://github.com/Gabryel-lima/Gabryel-lima/assets/125817153/e59e509a-abd6-4942-a325-9d63840b0ba2)
