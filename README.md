@@ -8,8 +8,8 @@
 
  <div align="center">
   <a href="https://github.com/Gabryel-lima">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabryel-lima&layout=compact&langs_count=7&theme=gotham&text_color=FDFDFD&title_color=00FFFF&hide_border=none&bg_color=0D1117&custom_title=Linguagens%20Ativas"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gabryel-lima&theme=gotham&show_icons=true&icon_color=00FFFF&text_color=FDFDFD&title_color=00FFFF&hide_border=none&bg_color=0D1117&custom_title=Gabryel%20lima%20GitHub%20Estatísticas"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabryel-lima&layout=compact&langs_count=7&theme=gotham&text_color=FDFDFD&title_color=00FFFF&hide_border=none&bg_color=0D1117&custom_title=Linguagens%20Ativas"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabryel-lima&theme=gotham&show_icons=true&icon_color=00FFFF&text_color=FDFDFD&title_color=00FFFF&hide_border=none&bg_color=0D1117&custom_title=Gabryel%20lima%20GitHub%20Estatísticas"/>
 </div>
  
  <div align="center">
