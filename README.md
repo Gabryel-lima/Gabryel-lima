@@ -13,15 +13,25 @@
 </div>
  
  <div align="center">
-  <h2>🥇 Tecnologias</h2>
+  <h2>✅ Tecnologias Dominantes</h2>
  
  </div>
  
 <div align="center"><br>
- <img src="https://skillicons.dev/icons?i=mysql,html,css,js,python,c,cs,cpp" /><br><br>
- <img src="https://skillicons.dev/icons?i=react,bootstrap,django,vscode,discord,git,github" /><br><br>
+ <img src="https://skillicons.dev/icons?i=python,c,vscode,discord,git,github" /><br><br>
 </div><br>
+
+ </div>
  
+ <div align="center">
+  <h2>📈 Tecnologias Em Estudo</h2>
+ 
+ </div>
+
+ <div align="center"><br>
+ <img src="https://skillicons.dev/icons?i=mysql,html,css,js,cs,cpp" /><br><br>
+ <img src="https://skillicons.dev/icons?i=react,bootstrap,django" /><br><br>
+</div><br>
  
  <div align="center">
   <a href = "mailto:contatogabbryellimasi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-008000?style=for-the-badge&logo=gmail&logoColor=black"</a>
