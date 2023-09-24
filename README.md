@@ -34,7 +34,7 @@
  <img src="https://skillicons.dev/icons?i=mysql,react,bootstrap,django" /><br><br>
 </div><br>
 
- 
+
  <div align="center">
   <a href = "mailto:contatogabbryellimasi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-008000?style=for-the-badge&logo=gmail&logoColor=black"</a>
   <a href="https://www.linkedin.com/in/gabryel-lima-9076541b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
