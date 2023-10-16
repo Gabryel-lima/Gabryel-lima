@@ -18,7 +18,7 @@
  </div>
  
 <div align="center"><br>
- <img src="https://skillicons.dev/icons?i=python,c" /><br><br>
+ <img src="https://skillicons.dev/icons?i=ai,pytorch,tensorflow,python,c" /><br><br>
  <img src="https://skillicons.dev/icons?i=vscode,discord,git,github" /><br><br>
 </div><br>
 
