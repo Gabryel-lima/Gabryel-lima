@@ -1,6 +1,7 @@
 <div align="center">
  <h1>Olá! Eu sou o Gabryel lima</h1>
  <h3>🎓Bacharel Engenharia da computação</h3>
+  <h3>🎓Tecnologo em Análise e Desemvolvimento de Sistemas</h3>
  
  #
  
