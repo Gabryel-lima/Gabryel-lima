@@ -38,9 +38,8 @@
 
 
  <div align="center">
-  <a href = "mailto:contatogabbryellimasi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-008000?style=for-the-badge&logo=gmail&logoColor=black"</a>
+  <a href = "mailto:contatogabbryellimasi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-008000?style=for-the-badge&logo=gmail&logoColor=white"</a>
   <a href="https://www.linkedin.com/in/gabryel-lima-9076541b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
-  <a href="https://www.instagram.com/gabryel27/" target="_blank"><img src="https://img.shields.io/badge/instagram-dc146c?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
 
 ![github-contribution-grid-snake](https://github.com/Gabryel-lima/Gabryel-lima/assets/125817153/e59e509a-abd6-4942-a325-9d63840b0ba2)
