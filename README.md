@@ -1,7 +1,7 @@
 <div align="center">
- <h1>Olá! Eu sou o Gabryel lima</h1>
- <h3>🎓Bacharel Engenharia da computação</h3>
-  <h3>🎓Tecnologo em Análise e Desemvolvimento de Sistemas</h3>
+ <h1>Hello! I'm Gabryel Lima</h1>
+ <h3>🎓Bachelor Computer Engineering</h3>
+  <h3>🎓Technologist in Systems Analysis and Development</h3>
  
  #
  
@@ -15,7 +15,7 @@
 </div>
  
  <div align="center">
-  <h2>✅ Tecnologias Dominantes</h2>
+  <h2>✅ Dominant Technologies</h2>
  
  </div>
  
@@ -27,7 +27,7 @@
  </div>
  
  <div align="center">
-  <h2>📈 Tecnologias Em Estudo</h2>
+  <h2>📈 Technologies Under Study</h2>
  
  </div>
 
