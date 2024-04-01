@@ -20,8 +20,8 @@
  </div>
  
 <div align="center"><br>
- <img src="https://skillicons.dev/icons?i=ai,pytorch,tensorflow,python,c" /><br><br>
- <img src="https://skillicons.dev/icons?i=vscode,discord,git,github" /><br><br>
+ <img src="https://skillicons.dev/icons?i=ai,pytorch,tensorflow,sklearn,python,c,bash" /><br><br>
+ <img src="https://skillicons.dev/icons?i=azure,mysql,androidstudio,vscode,discord,git,github" /><br><br>
 </div><br>
 
  </div>
@@ -33,7 +33,6 @@
 
  <div align="center"><br>
  <img src="https://skillicons.dev/icons?i=html,css,js,java,cs,cpp" /><br><br>
- <img src="https://skillicons.dev/icons?i=mysql,react,bootstrap,django" /><br><br>
 </div><br>
 
 
