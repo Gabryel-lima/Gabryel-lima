@@ -1,6 +1,6 @@
 <div align="center">
    <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=Fira+Code&weight=500&size=25&duration=5500&pause=1000&color=36C9F7&background=FF651600&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Gabryel+Lima+🤖🐍" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=Fira+Code&weight=500&size=25&duration=5200&pause=1000&color=36C9F7&background=FF651600&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Gabryel+Lima+🤖🐍" alt="Typing SVG" /></a>
    </div>
  <h3>🎓Bachelor Computer Engineering</h3>
   <h3>🎓Technologist in Systems Analysis and Development</h3>
