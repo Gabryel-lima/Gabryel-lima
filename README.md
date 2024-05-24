@@ -17,12 +17,12 @@
 </div>
  
  <div align="center">
-  <h2>✅ Dominant Technologies</h2>
+  <h2>✅ Technologies</h2>
  
  </div>
  
 <div align="center"><br>
- <img src="https://skillicons.dev/icons?i=ai,pytorch,tensorflow,sklearn,python,c,bash" /><br><br>
+ <img src="https://skillicons.dev/icons?i=ai,pytorch,tensorflow,sklearn,python" /><br><br>
  <img src="https://skillicons.dev/icons?i=azure,mysql,androidstudio,vscode,discord,git,github" /><br><br>
 </div><br>
 
@@ -34,7 +34,7 @@
  </div>
 
  <div align="center"><br>
- <img src="https://skillicons.dev/icons?i=html,css,js,java,cs,cpp" /><br><br>
+ <img src="https://skillicons.dev/icons?i=c,bash" /><br><br>
 </div><br>
 
 
