@@ -34,7 +34,7 @@
  </div>
 
  <div align="center"><br>
- <img src="https://skillicons.dev/icons?i=c,cpp,opencv,bash" /><br><br>
+ <img src="https://skillicons.dev/icons?i=c,cpp,julia,opencv,bash" /><br><br>
 </div><br>
 
 
