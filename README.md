@@ -5,12 +5,7 @@
  <h3>🎓Bachelor Computer Engineering</h3>
    <h3>🎓Technologist in Systems Analysis and Development</h3>
  
-<div align="center">
-  <a href="https://github.com/Gabryel-lima">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryel-lima&layout=compact&langs_count=7&hide=prs&theme=gotham&text_color=FDFDFD&title_color=00FFFF&hide_border=true&bg_color=0D1117&custom_title=Linguagens%20Ativas&cache_seconds=1800"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Gabryel-lima&theme=gotham&show_icons=true&icon_color=00FFFF&text_color=FDFDFD&title_color=00FFFF&hide_border=true&bg_color=0D1117&custom_title=Gabryel-lima%20GitHub%20Estatísticas&include_all_commits=true&show=prs_merged,prs_merged_percentage&rank_icon=github&cache_seconds=1800"/>
-  </a>
-</div>
+<img src="https://streak-stats.demolab.com?user=gabryel-lima&theme=darcula&hide_border=true" alt="gabryel-lima's GitHub Stats" />
  
  <div align="center">
   <h2>✅ Technologies</h2>
