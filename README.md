@@ -5,7 +5,7 @@
  <h3>🎓Bachelor Computer Engineering</h3>
    <h3>🎓Technologist in Systems Analysis and Development</h3>
  
-![GitHub Stats](https://streak-stats.demolab.com?user=gabryel-lima&theme=algolia&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gabryel-lima&theme=algolia&border_radius=5)](https://git.io/streak-stats)
  
  <div align="center">
   <h2>✅ Technologies</h2>
