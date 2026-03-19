@@ -13,10 +13,10 @@
  </div>
  
 <div align="center"><br>
- <img src="https://skillicons.dev/icons?i=python" /><br><br>
+ <img src="https://skillicons.dev/icons?i=linux" /><br><br>
  <img src="https://skillicons.dev/icons?i=c,cs,cpp" /><br><br>
- <img src="https://skillicons.dev/icons?i=ai,pytorch,tensorflow,opencv,sklearn" /><br><br>
- <img src="https://skillicons.dev/icons?i=azure,mysql,androidstudio,vscode,discord,bash,git,github" /><br><br>
+ <img src="https://skillicons.dev/icons?i=ai,python,pytorch,tensorflow,sklearn,opencv,latex" /><br><br>
+ <img src="https://skillicons.dev/icons?i=azure,mysql,docker,androidstudio,vscode,discord,bash,powershell,git,github" /><br><br>
 </div><br>
 
  </div>
@@ -27,7 +27,7 @@
  </div>
 
  <div align="center"><br>
- <img src="https://skillicons.dev/icons?i=julia" /><br><br>
+ <img src="https://skillicons.dev/icons?i=lua,julia,react,next,nodejs,js,ts" /><br><br>
 </div><br>
 
 
