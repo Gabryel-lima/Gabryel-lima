@@ -15,7 +15,8 @@
 <div align="center"><br>
  <img src="https://skillicons.dev/icons?i=linux" /><br><br>
  <img src="https://skillicons.dev/icons?i=c,cs,cpp" /><br><br>
- <img src="https://skillicons.dev/icons?i=ai,python,pytorch,tensorflow,sklearn,opencv,latex" /><br><br>
+ <img src="https://skillicons.dev/icons?i=julia,go,lua,py,js" /><br><br>
+ <img src="https://skillicons.dev/icons?i=ai,latex,pytorch,tensorflow,sklearn,opencv,react,ts" /><br><br>
  <img src="https://skillicons.dev/icons?i=azure,mysql,docker,androidstudio,vscode,discord,bash,powershell,git,github" /><br><br>
 </div><br>
 
@@ -27,7 +28,7 @@
  </div>
 
  <div align="center"><br>
- <img src="https://skillicons.dev/icons?i=lua,julia,react,next,nodejs,js,ts" /><br><br>
+ <img src="https://skillicons.dev/icons?i=java,dart" /><br><br>
 </div><br>
 
 
