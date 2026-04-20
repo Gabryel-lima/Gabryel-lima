@@ -32,9 +32,11 @@
 </div><br>
 
 
- <div align="center">
-  <a href = "mailto:contatogabbryellimasi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-008000?style=for-the-badge&logo=gmail&logoColor=white"</a>
-  <a href="https://www.linkedin.com/in/gabryel-lima-9076541b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
+<div align="center">
+  <a href="mailto:contatogabbryellimasi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-008000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gabryel-lima-9076541b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.youtube.com/@Code_Len" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://open.spotify.com/artist/6d10RHPPNjPMUzyt3Tt99j?si=bu7NEga_Rbi8qF5D8D9bgA" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
 
 ![github-contribution-grid-snake](https://github.com/Gabryel-lima/Gabryel-lima/assets/125817153/e59e509a-abd6-4942-a325-9d63840b0ba2)
