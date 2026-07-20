@@ -1,9 +1,6 @@
 <div align="center">
    <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello!+I'm+Gabryel+Lima+%F0%9F%A4%96%F0%9F%90%8D" alt="Typing SVG" /></a>
-   </div>
- <h3>🎓Bachelor Computer Engineering</h3>
-   <h3>🎓Technologist in Systems Analysis and Development</h3>
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gabryel-lima&theme=algolia&border_radius=5)](https://git.io/streak-stats)
  
