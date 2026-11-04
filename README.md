@@ -1,20 +1,25 @@
 <div align="center">
 
+<img src="assets/braille/header.svg" width="100%" alt="Gabryel Lima written in braille dots under a Game of Life sky, a dead moon and a portal" />
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FFD448&center=true&vCenter=true&width=560&lines=Hello!+I'm+Gabryel+Lima+%F0%9F%A4%96%F0%9F%90%8D;C11+%C2%B7+SDL2+%C2%B7+a+sky+written+in+braille+dots;Building+CharyRick+and+its+engine%2C+Grade;Linux+%C2%B7+Windows+%C2%B7+macOS+%C2%B7+Android+%C2%B7+EmuELEC" alt="Typing SVG" /></a>
 
-<img src="assets/charyrick/title.gif" width="640" alt="CharyRick title screen: the braille sky, the dead moon and the portal" />
-
-<sub><i>a co-op descent through a sky written in dots</i></sub>
+<sub>Every dot above is computed by <a href="tools/braille_art.py"><code>tools/braille_art.py</code></a> with CharyRick's palette and 5×7 font — the sky is Conway's Game of Life, played forward and then rewound.</sub>
 
 </div>
 
----
+<div align="center"><img src="assets/braille/divider.svg" width="100%" alt="" /></div>
 
 ## 🎮 CharyRick
 
 A **real-time co-op roguelike** (up to 4 players on one screen) written from scratch in **C11 + SDL2** and drawn
 only with **braille dots and block pixels**. The sky pulses like Conway's Game of Life, something called the
 Eraser is eating it, and you are a Reader going down to restore the Glyphs that hold it up.
+
+<div align="center">
+<img src="assets/charyrick/title.gif" width="640" alt="CharyRick title screen: the braille sky, the dead moon and the portal" /><br>
+<sub><i>a co-op descent through a sky written in dots</i></sub>
+</div>
 
 <div align="center">
 <table>
@@ -32,6 +37,8 @@ Eraser is eating it, and you are a Reader going down to restore the Glyphs that 
 
 ### What I built inside it
 
+<div align="center"><img src="assets/braille/orbit.svg" width="420" alt="A black hole with rings of braille dots turning" /></div>
+
 | | |
 |---|---|
 | 🧩 **Grade** — my own engine library | braille canvas (each 2×4 block is a cell), pixel fonts with accents, sprites, field of view on a grid, composition layers with z-order, i18n that *fits the text in the box* (wrap → spill → scroll → pages, never shrinking the font) |
@@ -43,7 +50,7 @@ Eraser is eating it, and you are a Reader going down to restore the Glyphs that 
 
 <sub>~60k lines of C · two languages (English / pt-BR) · Doxygen on every symbol</sub>
 
----
+<div align="center"><img src="assets/braille/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
 
@@ -68,7 +75,7 @@ Eraser is eating it, and you are a Reader going down to restore the Glyphs that 
 <img src="https://img.shields.io/badge/C_%E2%86%92_assembly-3a265f?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Sound_synthesis-3a265f?style=for-the-badge&logoColor=white" />
 
----
+<div align="center"><img src="assets/braille/divider.svg" width="100%" alt="" /></div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gabryel-lima&theme=dark&background=080A0C&ring=FFD448&fire=CE60DC&currStreakLabel=FFD448&sideLabels=54D4E8&dates=828C84&border=3A265F&border_radius=8)](https://git.io/streak-stats)
 
